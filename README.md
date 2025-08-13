@@ -29,6 +29,7 @@ Exemplo com > (Maior):
 Pergunta a idade do usuário:
 <br>
 ![WhatsApp Image 2025-08-13 at 14 08 42](https://github.com/user-attachments/assets/a77b0726-d550-47bb-9e5a-cdd7972e575b)
+
 <br>
 <br>
 <br>
@@ -41,7 +42,9 @@ Se for maior de 17:
 <br>
 Se for menor de 17:
 <br>
-![WhatsApp Image 2025-08-13 at 14 08 42 (1)](https://github.com/user-attachments/assets/2b346a98-fff8-46c3-886d-b4dcc0a06566)
+![WhatsApp Image 2025-08-13 at 14 08 42 (1)]() 
+<img width="392" height="176" alt="image" src="https://github.com/user-attachments/assets/2b346a98-fff8-46c3-886d-b4dcc0a06566")/>
+<img width="392" height="176" alt="image" src="")/>
 <br>
 <br>
 <br>
