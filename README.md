@@ -116,7 +116,7 @@ Se for menor que 6:
 <br>
 Vê se ainda tem produtos no estoque:
 <br>
-![WhatsApp Image 2025-08-13 at 14 08 49](https://github.com/user-attachments/assets/3e93b455-cff0-4c22-9dfc-e29dc7676e07)
+<img width="392" height="176" alt="image" src="https://github.com/user-attachments/assets/3e93b455-cff0-4c22-9dfc-e29dc7676e07")/>
 <br>
 <br>
 <br>
