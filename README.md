@@ -28,7 +28,7 @@ Exemplo com > (Maior):
 <br>
 Pergunta a idade do usuário:
 <br>
-<img width="392" height="176" alt="image" src="https://github.com/user-attachments/assets/a77b0726-d550-47bb-9e5a-cdd7972e575b)")/> 
+<img width="392" height="176" alt="image" src="https://github.com/user-attachments/assets/a77b0726-d550-47bb-9e5a-cdd7972e575b)"/> 
 
 <br>
 <br>
