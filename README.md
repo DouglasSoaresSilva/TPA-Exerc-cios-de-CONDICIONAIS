@@ -1,4 +1,4 @@
-Código dos exercicios de IF e ELSE utilizando as condicionais
+![WhatsApp Image 2025-08-13 at 14 08 42](https://github.com/user-attachments/assets/a77b0726-d550-47bb-9e5a-cdd7972e575b)Código dos exercicios de IF e ELSE utilizando as condicionais
 <br><br>
 
 Vê se o número é 10:
@@ -26,16 +26,16 @@ Se for igual a 10:
 Exemplo com > (Maior):
 <br>
 <br>
-<br>
 Pergunta a idade do usuário:
 <br>
-![WhatsApp Image 2025-08-13 at 14 08 42 (2)](https://github.com/user-attachments/assets/0368046f-ebb2-4d99-9429-fd70333c6eba)
 <br>
+![WhatsApp Image 2025-08-13 at 14 08 42](https://github.com/user-attachments/assets/7759dc8b-c8e6-4e75-bcb2-6c81934271ed)
 <br>
 <br>
 Se for maior de 17:
 <br>
-![WhatsApp Image 2025-08-13 at 14 08 43](https://github.com/user-attachments/assets/98004159-6866-461e-9947-5766e0a5606b)
+![WhatsApp Image 2025-08-13 at 14 08 43](https://github.com/user-attachments/assets/14f25006-f4bc-419d-9600-bb4c0cee39f5)
+
 <br>
 <br>
 <br>
