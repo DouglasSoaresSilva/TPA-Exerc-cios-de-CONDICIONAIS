@@ -67,7 +67,7 @@ Se estiver maior do que 0°:
 
 Se estiver menor que 0°:
 <br>
-<img width="392" height="176" alt="image" src="https://github.com/user-attachments/assets/6b70a972-049d-4208-8e24-9057c0f34d0c")/>
+<img width="392" height="186" alt="image" src="https://github.com/user-attachments/assets/6b70a972-049d-4208-8e24-9057c0f34d0c ")/>
 
 <br>
 <br>
