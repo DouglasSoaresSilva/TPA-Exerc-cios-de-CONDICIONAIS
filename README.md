@@ -124,12 +124,15 @@ Caso tenha mais de 1:
 <br>
 <br>
 <br>
-Caso não tenha nenhum:
-<br>
-![WhatsApp Image 2025-08-13 at 14 08 49 (1)](https://github.com/user-attachments/assets/3ad5e87e-f002-4f60-960e-930de4151401)
+Caso não tenha nenhum item:
 <br>
 <br>
+![WhatsApp Image 2025-08-13 at 14 08 49 (1)](https://github.com/user-attachments/assets/b641bcdc-3320-4c0d-b5ee-33233933a33b)
+
 <br>
+<br>
+-
+
 
 Manda uma mensagem personalizada baseado na hora do dia (0-24):
 <br>
