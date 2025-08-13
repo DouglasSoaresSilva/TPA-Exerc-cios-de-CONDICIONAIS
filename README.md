@@ -127,7 +127,8 @@ Caso tenha mais de 1:
 Caso não tenha nenhum item:
 <br>
 <br>
-![WhatsApp Image 2025-08-13 at 14 08 49 (1)](https://github.com/user-attachments/assets/b641bcdc-3320-4c0d-b5ee-33233933a33b)
+![Estoque esgotado](https://github.com/user-attachments/assets/58b142b2-db48-4efa-9f00-4a8aea49b90a)
+
 
 <br>
 <br>
