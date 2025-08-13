@@ -53,23 +53,25 @@ Se for menor de 17:
 <br>
 Manda uma mensagem baseado na temperatura:
 <br>
-![WhatsApp Image 2025-08-13 at 14 08 43 (1)](https://github.com/user-attachments/assets/76ffb1ac-0c2a-43b4-9cfa-1671b9e2b7c0)
+https://github.com/user-attachments/assets/76ffb1ac-0c2a-43b4-9cfa-1671b9e2b7c0)
 <br>
 <br>
 <br>
 Se estiver maior do que 0°:
 <br>
-![WhatsApp Image 2025-08-13 at 14 08 44 (3)](https://github.com/user-attachments/assets/e9c15c1a-557f-4e15-b4ed-25e68fe60966)
+<img width="392" height="176" alt="image" src="https://github.com/user-attachments/assets/e9c15c1a-557f-4e15-b4ed-25e68fe60966")/>
 <br>
 <br>
 <br>
 
 Se estiver menor que 0°:
 <br>
-<img width="392" height="176" alt="image" src="https://github.com/user-attachments/assets/6b70a972-049d-4208-8e24-9057c0f34d0c")/>
+<img width="392" height="176" src="https://github.com/user-attachments/assets/6b70a972-049d-4208-8e24-9057c0f34d0c")/>
 <br>
 <br>
 <br>
+-
+
 Digita um nome e vê se é Maria:
 <br>
 ![WhatsApp Image 2025-08-13 at 14 08 46](https://github.com/user-attachments/assets/9e97c159-c087-428f-86c2-e763deca49f2)
