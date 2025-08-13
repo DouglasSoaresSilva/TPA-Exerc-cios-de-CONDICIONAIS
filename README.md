@@ -42,7 +42,6 @@ Se for maior de 17:
 <br>
 Se for menor de 17:
 <br>
-![WhatsApp Image 2025-08-13 at 14 08 42 (1)]() 
 <img width="392" height="176" alt="image" src="https://github.com/user-attachments/assets/2b346a98-fff8-46c3-886d-b4dcc0a06566")/>
 
 <br>
