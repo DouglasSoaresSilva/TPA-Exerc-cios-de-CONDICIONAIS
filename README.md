@@ -28,7 +28,7 @@ Exemplo com > (Maior):
 <br>
 Pergunta a idade do usuário:
 <br>
-![WhatsApp Image 2025-08-13 at 14 08 42](https://github.com/user-attachments/assets/a77b0726-d550-47bb-9e5a-cdd7972e575b)
+<img width="392" height="176" alt="image" src="https://github.com/user-attachments/assets/a77b0726-d550-47bb-9e5a-cdd7972e575b)")/> 
 
 <br>
 <br>
@@ -67,7 +67,7 @@ Se estiver maior do que 0°:
 
 Se estiver menor que 0°:
 <br>
-![WhatsApp Image 2025-08-13 at 14 08 44](https://github.com/user-attachments/assets/6b70a972-049d-4208-8e24-9057c0f34d0c)
+<img width="392" height="176" alt="image" src="https://github.com/user-attachments/assets/6b70a972-049d-4208-8e24-9057c0f34d0c")/>
 <br>
 <br>
 <br>
