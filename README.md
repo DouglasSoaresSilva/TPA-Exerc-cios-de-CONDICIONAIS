@@ -88,7 +88,7 @@ Se não for Maria:
 --
 <br>
 <br>
-Vê se foi aprovado ou não:
+Vê o se o aluno foi aprovado ou não:
 <br>
 ![WhatsApp Image 2025-08-13 at 14 08 46 (2)](https://github.com/user-attachments/assets/2d95e61a-0b22-423a-8ab9-4fc97dff2ff6)
 <br>
@@ -144,6 +144,7 @@ Se for antes das 18 horas:
 <br>
 <br>
 Se for depois das 18:
+<br>
 ![WhatsApp Image 2025-08-13 at 14 08 52](https://github.com/user-attachments/assets/699490f4-caa2-487e-919a-675f10b08016)
 <br>
 <br>
