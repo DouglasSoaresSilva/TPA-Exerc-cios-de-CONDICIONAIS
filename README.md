@@ -53,7 +53,7 @@ Se for menor de 17:
 <br>
 Manda uma mensagem baseado na temperatura:
 <br>
-https://github.com/user-attachments/assets/76ffb1ac-0c2a-43b4-9cfa-1671b9e2b7c0)
+<img width="392" height="176" alt="image" src="https://github.com/user-attachments/assets/76ffb1ac-0c2a-43b4-9cfa-1671b9e2b7c0")/>
 <br>
 <br>
 <br>
