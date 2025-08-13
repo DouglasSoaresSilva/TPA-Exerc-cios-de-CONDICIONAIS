@@ -59,7 +59,8 @@ https://github.com/user-attachments/assets/76ffb1ac-0c2a-43b4-9cfa-1671b9e2b7c0)
 <br>
 Se estiver maior do que 0°:
 <br>
-<img width="392" height="176" alt="image" src="https://github.com/user-attachments/assets/e9c15c1a-557f-4e15-b4ed-25e68fe60966")/>
+<img width="392" height="176" alt="image" src="https://github.com/user-attachments/assets/0b0d6c62-478f-4830-b160-0fce508ddb4a")/>
+
 <br>
 <br>
 <br>
