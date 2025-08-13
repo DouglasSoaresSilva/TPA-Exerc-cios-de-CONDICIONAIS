@@ -1,4 +1,4 @@
-Se
+Código dos exercicios de IF e ELSE utilizando as condicionais
 
 ![WhatsApp Image 2025-08-06 at 15 08 53](https://github.com/user-attachments/assets/a49442b0-8e0f-4aed-9732-f37d33525492)
 ![WhatsApp Image 2025-08-06 at 15 08 53 (3)](https://github.com/user-attachments/assets/a7a4fc13-7072-4252-8a06-f1b553e27b78)
