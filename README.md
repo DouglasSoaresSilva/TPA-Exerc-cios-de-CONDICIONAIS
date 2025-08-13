@@ -120,7 +120,8 @@ Vê se ainda tem produtos no estoque:
 <br>
 Caso tenha mais de 1:
 <br>
-![WhatsApp Image 2025-08-13 at 14 08 48 (2)]() <img width="392" height="176" alt="image" src="https://github.com/user-attachments/assets/40524ef5-5f12-48a0-9999-2af0d19ae814")/>
+<br>
+<img width="392" height="176" alt="image" src="https://github.com/user-attachments/assets/40524ef5-5f12-48a0-9999-2af0d19ae814")/>
 <br>
 <br>
 <br>
