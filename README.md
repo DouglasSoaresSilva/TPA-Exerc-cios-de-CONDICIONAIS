@@ -97,7 +97,7 @@ Vê o se o aluno foi aprovado ou não:
 <br>
 <br>
 <br>
-![WhatsApp Image 2025-08-13 at 14 08 46 (2)](https://github.com/user-attachments/assets/9753c02a-886c-4b81-9123-b3116daf2a18)
+<img width="392" height="176" alt="image" src="https://github.com/user-attachments/assets/9753c02a-886c-4b81-9123-b3116daf2a18 ")/>
 
 
 Se for maior que 6:
