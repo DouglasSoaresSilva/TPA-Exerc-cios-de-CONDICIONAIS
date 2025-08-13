@@ -2,6 +2,7 @@ Código dos exercicios de IF e ELSE utilizando as condicionais
 <br><br>
 
 Vê se o número é 10:
+<br>
 ![WhatsApp Image 2025-08-13 at 14 08 40](https://github.com/user-attachments/assets/ca49c0ce-5f2c-455a-bdf8-a3c55192a945)
 <br>
 <br>
