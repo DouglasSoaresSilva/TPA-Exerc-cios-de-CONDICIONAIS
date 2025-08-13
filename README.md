@@ -1,6 +1,6 @@
 Código dos exercicios de IF e ELSE utilizando as condicionais
 <br><br>
-
+<img width="392" height="176" alt="image" src="")/>
 Vê se o número é 10:
 <br>
 ![WhatsApp Image 2025-08-13 at 14 08 40](https://github.com/user-attachments/assets/ca49c0ce-5f2c-455a-bdf8-a3c55192a945)
@@ -35,7 +35,7 @@ Pergunta a idade do usuário:
 <br>
 Se for maior de 17:
 <br>
-![WhatsApp Image 2025-08-13 at 14 08 43](https://github.com/user-attachments/assets/14f25006-f4bc-419d-9600-bb4c0cee39f5)
+<img width="392" height="176" alt="image" src="https://github.com/user-attachments/assets/14f25006-f4bc-419d-9600-bb4c0cee39f5")/>
 
 <br>
 <br>
@@ -44,7 +44,7 @@ Se for menor de 17:
 <br>
 ![WhatsApp Image 2025-08-13 at 14 08 42 (1)]() 
 <img width="392" height="176" alt="image" src="https://github.com/user-attachments/assets/2b346a98-fff8-46c3-886d-b4dcc0a06566")/>
-<img width="392" height="176" alt="image" src="")/>
+
 <br>
 <br>
 <br>
