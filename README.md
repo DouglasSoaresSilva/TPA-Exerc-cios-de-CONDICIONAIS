@@ -7,12 +7,14 @@ Vê se o número é 10:
 <br>
 <br>
 <br>
-Se não for igual a 10:
+Se não for igual a 10: 
+<br>
 ![WhatsApp Image 2025-08-13 at 14 08 41 (1)](https://github.com/user-attachments/assets/0b1661a9-bbb9-4238-bc62-47e968aea470)
 <br>
 <br>
 <br>
 Se for igual a 10:
+<br>
 ![WhatsApp Image 2025-08-13 at 14 08 41](https://github.com/user-attachments/assets/c7bce9dc-5445-497d-ad22-719ee3e1eb28)
 <br>
 <br>
@@ -26,16 +28,19 @@ Exemplo com > (Maior):
 <br>
 <br>
 Pergunta a idade do usuário:
+<br>
 ![WhatsApp Image 2025-08-13 at 14 08 42 (2)](https://github.com/user-attachments/assets/0368046f-ebb2-4d99-9429-fd70333c6eba)
 <br>
 <br>
 <br>
 Se for maior de 17:
+<br>
 ![WhatsApp Image 2025-08-13 at 14 08 43](https://github.com/user-attachments/assets/98004159-6866-461e-9947-5766e0a5606b)
 <br>
 <br>
 <br>
 Se for menor de 17:
+<br>
 ![WhatsApp Image 2025-08-13 at 14 08 42 (1)](https://github.com/user-attachments/assets/2b346a98-fff8-46c3-886d-b4dcc0a06566)
 <br>
 <br>
@@ -45,11 +50,13 @@ Se for menor de 17:
 <br>
 <br>
 Manda uma mensagem baseado na temperatura:
+<br>
 ![WhatsApp Image 2025-08-13 at 14 08 43 (1)](https://github.com/user-attachments/assets/76ffb1ac-0c2a-43b4-9cfa-1671b9e2b7c0)
 <br>
 <br>
 <br>
 Se estiver maior do que 0°:
+<br>
 ![WhatsApp Image 2025-08-13 at 14 08 44 (3)](https://github.com/user-attachments/assets/e9c15c1a-557f-4e15-b4ed-25e68fe60966)
 <br>
 <br>
@@ -57,18 +64,18 @@ Se estiver maior do que 0°:
 
 Se estiver menor que 0°:
 <br>
-<br>
-<br>
 ![WhatsApp Image 2025-08-13 at 14 08 44](https://github.com/user-attachments/assets/6b70a972-049d-4208-8e24-9057c0f34d0c)
 <br>
 <br>
 <br>
 Digita um nome e vê se é Maria:
+<br>
 ![WhatsApp Image 2025-08-13 at 14 08 46](https://github.com/user-attachments/assets/9e97c159-c087-428f-86c2-e763deca49f2)
 <br>
 <br>
 <br>
 Se for Maria:
+<br>
 <img width="392" height="176" alt="image" src="https://github.com/user-attachments/assets/5f8d3b2f-3df7-43ea-a53c-893189f3c1fe" />
 <br>
 <br>
@@ -82,17 +89,20 @@ Se não for Maria:
 <br>
 <br>
 Vê se foi aprovado ou não:
+<br>
 ![WhatsApp Image 2025-08-13 at 14 08 46 (2)](https://github.com/user-attachments/assets/2d95e61a-0b22-423a-8ab9-4fc97dff2ff6)
 <br>
 <br>
 <br>
 
 Se for maior que 6:
+<br>
 ![WhatsApp Image 2025-08-13 at 14 08 47](https://github.com/user-attachments/assets/92747466-e8be-4d71-989c-54109e66d929)
 <br>
 <br>
 <br>
 Se for menor que 6:
+<br>
 ![WhatsApp Image 2025-08-13 at 14 08 48](https://github.com/user-attachments/assets/1e6a7327-87c5-46b7-9df4-012c50d5873c)
 <br>
 <br>
@@ -102,16 +112,19 @@ Se for menor que 6:
 <br>
 <br>
 Vê se ainda tem produtos no estoque:
+<br>
 ![WhatsApp Image 2025-08-13 at 14 08 49](https://github.com/user-attachments/assets/3e93b455-cff0-4c22-9dfc-e29dc7676e07)
 <br>
 <br>
 <br>
 Caso tenha mais de 1:
+<br>
 ![WhatsApp Image 2025-08-13 at 14 08 48 (2)](https://github.com/user-attachments/assets/40524ef5-5f12-48a0-9999-2af0d19ae814)
 <br>
 <br>
 <br>
 Caso não tenha nenhum:
+<br>
 ![WhatsApp Image 2025-08-13 at 14 08 49 (1)](https://github.com/user-attachments/assets/3ad5e87e-f002-4f60-960e-930de4151401)
 <br>
 <br>
@@ -121,10 +134,12 @@ Manda uma mensagem personalizada baseado na hora do dia (0-24):
 <br>
 <br>
 Se for antes das 12 horas:
+<br>
 ![WhatsApp Image 2025-08-13 at 14 08 51](https://github.com/user-attachments/assets/dab95736-2040-42a7-bd8b-872fb3c118fc)
 <br>
 <br>
 Se for antes das 18 horas:
+<br>
 ![WhatsApp Image 2025-08-13 at 14 08 50 (1)](https://github.com/user-attachments/assets/0a423f24-110d-441b-be18-fd626b7d80f1)
 <br>
 <br>
@@ -133,4 +148,5 @@ Se for depois das 18:
 <br>
 <br>
 Caso digitem mais do que 24 horas:
+<br>
 ![WhatsApp Image 2025-08-13 at 14 08 53](https://github.com/user-attachments/assets/2d4e12e4-ac8a-4f74-9e5a-b988b6e0e03c)
