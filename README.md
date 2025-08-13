@@ -1,33 +1,90 @@
 Código dos exercicios de IF e ELSE utilizando as condicionais
 
-![WhatsApp Image 2025-08-06 at 15 08 53](https://github.com/user-attachments/assets/a49442b0-8e0f-4aed-9732-f37d33525492)
-![WhatsApp Image 2025-08-06 at 15 08 53 (3)](https://github.com/user-attachments/assets/a7a4fc13-7072-4252-8a06-f1b553e27b78)
-![WhatsApp Image 2025-08-06 at 15 08 53 (2)](https://github.com/user-attachments/assets/63550c11-c343-4de3-bd24-11f758f11bb0)
-![WhatsApp Image 2025-08-06 at 15 08 53 (1)](https://github.com/user-attachments/assets/5b7e51de-f77d-4112-b543-89bf3432ced1)
-![WhatsApp Image 2025-08-06 at 15 08 52](https://github.com/user-attachments/assets/d53c7d7d-0709-47ae-be39-eda822d820cc)
-![WhatsApp Image 2025-08-06 at 15 08 52 (3)](https://github.com/user-attachments/assets/22ed848b-2bad-48b7-b128-72a30bb442fb)
-![WhatsApp Image 2025-08-06 at 15 08 52 (2)](https://github.com/user-attachments/assets/c71bf29d-64e1-4930-b6fd-6173444dd538)
-![WhatsApp Image 2025-08-06 at 15 08 52 (1)](https://github.com/user-attachments/assets/d604c9e6-fffa-4388-bffe-589030fb684d)
-![WhatsApp Image 2025-08-06 at 15 08 51](https://github.com/user-attachments/assets/69d5862b-91f3-4a30-bcde-3a09b2afa3dc)
-![WhatsApp Image 2025-08-06 at 15 08 51 (2)](https://github.com/user-attachments/assets/bb217034-e922-4a1b-ac24-9f05e3d84246)
-![WhatsApp Image 2025-08-06 at 15 08 51 (1)](https://github.com/user-attachments/assets/411dd4c8-613e-47b2-8479-d602f7a63fa1)
-![WhatsApp Image 2025-08-06 at 15 08 50](https://github.com/user-attachments/assets/865d0cb8-6dcc-473f-8533-b1d65324cd9d)
-![WhatsApp Image 2025-08-06 at 15 08 50 (3)](https://github.com/user-attachments/assets/d4dd58ee-912d-4f5f-bcc0-ec58af551092)
-![WhatsApp Image 2025-08-06 at 15 08 50 (2)](https://github.com/user-attachments/assets/8c5071d2-e9e5-49d6-891d-c903e21cb289)
-![WhatsApp Image 2025-08-06 at 15 08 50 (1)](https://github.com/user-attachments/assets/962e88f5-6bab-4f09-8185-00606b196601)
-![WhatsApp Image 2025-08-06 at 15 08 49](https://github.com/user-attachments/assets/635387f9-40e0-425b-a3da-84b72ab240b0)
-![WhatsApp Image 2025-08-06 at 15 08 49 (3)](https://github.com/user-attachments/assets/56d72d62-259b-436a-80c6-69a7510e6cc7)
-![WhatsApp Image 2025-08-06 at 15 08 49 (2)](https://github.com/user-attachments/assets/c02809a1-0b1c-4f59-9e42-ca8d781d55dd)
-![WhatsApp Image 2025-08-06 at 15 08 49 (1)](https://github.com/user-attachments/assets/1fcd4c96-7415-41c6-98a0-94212dc17335)
-![WhatsApp Image 2025-08-06 at 15 08 48](https://github.com/user-attachments/assets/1998447d-2694-47ab-b5b0-f722157ee222)
-![WhatsApp Image 2025-08-06 at 15 08 48 (2)](https://github.com/user-attachments/assets/3fb4ad8f-6c20-4189-a6b8-b86cd11d8756)
-![WhatsApp Image 2025-08-06 at 15 08 48 (1)](https://github.com/user-attachments/assets/aa325354-62c0-4e5a-853b-fb23bf1a1083)
-![WhatsApp Image 2025-08-06 at 15 08 47](https://github.com/user-attachments/assets/367d5232-b3f4-40ff-8fdc-921d17394eb7)
-![WhatsApp Image 2025-08-06 at 15 08 47 (3)](https://github.com/user-attachments/assets/490f31c6-48cb-4e66-9631-ada7a4059526)
-![WhatsApp Image 2025-08-06 at 15 08 47 (2)](https://github.com/user-attachments/assets/5953414c-7b1b-4c86-b9cc-42d5a9ba0195)
-![WhatsApp Image 2025-08-06 at 15 08 47 (1)](https://github.com/user-attachments/assets/0c7dac81-4333-4071-a358-21d7ae78b1ae)
-![WhatsApp Image 2025-08-06 at 15 08 55](https://github.com/user-attachments/assets/0b018e4c-f935-4356-9f14-1bf365850ef8)
-![WhatsApp Image 2025-08-06 at 15 08 54](https://github.com/user-attachments/assets/7db1d681-f889-46f5-b414-a216e4be64eb)
-![WhatsApp Image 2025-08-06 at 15 08 54 (3)](https://github.com/user-attachments/assets/1e2e54b3-98ff-4610-bb81-30d958bc2526)
-![WhatsApp Image 2025-08-06 at 15 08 54 (2)](https://github.com/user-attachments/assets/7cd3cd5d-279d-4f76-bb0d-c1202f3d3b81)
-![WhatsApp Image 2025-08-06 at 15 08 54 (1)](https://github.com/user-attachments/assets/d2e894cb-d19f-4225-9545-c8d10798f244)
+
+Vê se o número é 10:
+![WhatsApp Image 2025-08-13 at 14 08 40](https://github.com/user-attachments/assets/ca49c0ce-5f2c-455a-bdf8-a3c55192a945)
+
+Se não for igual a 10:
+![WhatsApp Image 2025-08-13 at 14 08 41 (1)](https://github.com/user-attachments/assets/0b1661a9-bbb9-4238-bc62-47e968aea470)
+
+Se for igual a 10:
+![WhatsApp Image 2025-08-13 at 14 08 41](https://github.com/user-attachments/assets/c7bce9dc-5445-497d-ad22-719ee3e1eb28)
+
+-
+
+Exemplo com > (Maior):
+
+Pergunta a idade do usuário:
+![WhatsApp Image 2025-08-13 at 14 08 42 (2)](https://github.com/user-attachments/assets/0368046f-ebb2-4d99-9429-fd70333c6eba)
+
+Se for maior de 17:
+![WhatsApp Image 2025-08-13 at 14 08 43](https://github.com/user-attachments/assets/98004159-6866-461e-9947-5766e0a5606b)
+
+Se for menor de 17:
+![WhatsApp Image 2025-08-13 at 14 08 42 (1)](https://github.com/user-attachments/assets/2b346a98-fff8-46c3-886d-b4dcc0a06566)
+
+
+-
+
+Manda uma mensagem baseado na temperatura:
+![WhatsApp Image 2025-08-13 at 14 08 43 (1)](https://github.com/user-attachments/assets/76ffb1ac-0c2a-43b4-9cfa-1671b9e2b7c0)
+
+Se estiver maior do que 0°:
+![WhatsApp Image 2025-08-13 at 14 08 44 (3)](https://github.com/user-attachments/assets/e9c15c1a-557f-4e15-b4ed-25e68fe60966)
+
+
+Se estiver menor que 0°:
+
+![WhatsApp Image 2025-08-13 at 14 08 44](https://github.com/user-attachments/assets/6b70a972-049d-4208-8e24-9057c0f34d0c)
+
+
+Digita um nome e vê se é Maria:
+![WhatsApp Image 2025-08-13 at 14 08 46](https://github.com/user-attachments/assets/9e97c159-c087-428f-86c2-e763deca49f2)
+
+Se for Maria:
+<img width="392" height="176" alt="image" src="https://github.com/user-attachments/assets/5f8d3b2f-3df7-43ea-a53c-893189f3c1fe" />
+
+
+Se não for Maria:
+
+![WhatsApp Image 2025-08-13 at 14 08 46 (1)](https://github.com/user-attachments/assets/401633a8-00f0-431d-bded-ea3e492a1d2a)
+
+
+--
+
+Vê se foi aprovado ou não:
+![WhatsApp Image 2025-08-13 at 14 08 46 (2)](https://github.com/user-attachments/assets/2d95e61a-0b22-423a-8ab9-4fc97dff2ff6)
+
+
+Se for maior que 6:
+![WhatsApp Image 2025-08-13 at 14 08 47](https://github.com/user-attachments/assets/92747466-e8be-4d71-989c-54109e66d929)
+
+Se for menor que 6:
+![WhatsApp Image 2025-08-13 at 14 08 48](https://github.com/user-attachments/assets/1e6a7327-87c5-46b7-9df4-012c50d5873c)
+
+
+--
+
+Vê se ainda tem produtos no estoque:
+![WhatsApp Image 2025-08-13 at 14 08 49](https://github.com/user-attachments/assets/3e93b455-cff0-4c22-9dfc-e29dc7676e07)
+
+Caso tenha mais de 1:
+![WhatsApp Image 2025-08-13 at 14 08 48 (2)](https://github.com/user-attachments/assets/40524ef5-5f12-48a0-9999-2af0d19ae814)
+
+Caso não tenha nenhum:
+![WhatsApp Image 2025-08-13 at 14 08 49 (1)](https://github.com/user-attachments/assets/3ad5e87e-f002-4f60-960e-930de4151401)
+
+
+Manda uma mensagem personalizada baseado na hora do dia (0-24):
+
+Se for antes das 12 horas:
+![WhatsApp Image 2025-08-13 at 14 08 51](https://github.com/user-attachments/assets/dab95736-2040-42a7-bd8b-872fb3c118fc)
+
+Se for antes das 18 horas:
+![WhatsApp Image 2025-08-13 at 14 08 50 (1)](https://github.com/user-attachments/assets/0a423f24-110d-441b-be18-fd626b7d80f1)
+
+Se for depois das 18:
+![WhatsApp Image 2025-08-13 at 14 08 52](https://github.com/user-attachments/assets/699490f4-caa2-487e-919a-675f10b08016)
+
+Caso digitem mais do que 24 horas:
+![WhatsApp Image 2025-08-13 at 14 08 53](https://github.com/user-attachments/assets/2d4e12e4-ac8a-4f74-9e5a-b988b6e0e03c)
